@@ -132,7 +132,7 @@ h3{
     color: black;
     text-align: center;
     display: block;
-    background-color: lightpink;
+    background-color: plum;
 
     width: 95%;
     margin: auto;
@@ -147,7 +147,7 @@ h1.acesse{
 
     width: 200px;
     height: 45px;
-    background-color: lightpink;
+    background-color: plum;
 }
 
 
@@ -170,7 +170,7 @@ footer{
 }
 
 div.loja{
-    color: fuchsia;
+    color: black;
 }
 
 div.desenvolvedor{
