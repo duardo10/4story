@@ -47,6 +47,30 @@ div.joias{
     height: 320px;
 }
 
+div.maquiagens{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-image: url(imagens/colecao-close-up-de-produtos-de-maquiagem-e-beleza.jpg);
+
+    width: 98%;
+    height: 320px;
+}
+
+div.eletronicos{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: local;
+
+    background-image: url(imagens/arranjo-de-colecao-estacionario-moderno.jpg);
+
+    width: 98%;
+    height: 320px;
+}
+
 h3{
     text-align: center;
     display: block;
