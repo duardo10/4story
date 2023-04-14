@@ -71,7 +71,12 @@ div.home{
     background-image: url(imagens/jovem-loira-com-colar-de-perolas.jpg);
 
     width: 98%;
-    height: 320px;
+    height: 400px;
+}
+
+div.home > p{
+    text-justify: auto;
+    text-align: justify;
 }
 
 div.bloco{
