@@ -129,7 +129,7 @@ div.eletronicos{
 }
 
 h3{
-    color: fuchsia;
+    color: black;
     text-align: center;
     display: block;
     background-color: lightpink;
@@ -139,7 +139,7 @@ h3{
 }
 
 h1.acesse{
-    color: fuchsia;
+    color: black;
     display: block;
     text-align: center;
     margin: 200px auto;
