@@ -165,6 +165,18 @@ div.eletronicos{
     height: 320px;
 }
 
+div.sobre{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: local;
+
+    background-image: url(imagens/sobre.jpg);
+
+    width: 98%;
+    height: 320px;
+}
+
 h3{
     color: black;
     text-align: center;
@@ -175,17 +187,25 @@ h3{
     margin: auto;
 }
 
-h1.acesse{
-    color: black;
-    display: block;
+
+
+.acesse{
     text-align: center;
     margin: 200px auto;
 
-
     width: 200px;
     height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: rgb(250, 180, 250);
-}
+    
+    text-align: center; 
+    color: black;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 1.5em;
+} 
 
 
 footer{
@@ -198,7 +218,7 @@ footer{
     border-style: solid;
     border-color: black;
 
-    margin-top: 40px;
+    margin-top: 20px;
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
