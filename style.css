@@ -103,9 +103,9 @@ div.home{
     color: black;
     box-shadow: inset 6px 6px 13px 0px black;
     background-size: cover;
-    
+    background-attachment: fixed;
 
-    background-image: url(imagens/jovem-loira-com-colar-de-perolas.jpg);
+    background-image: url(imagens/pinceis-cosmeticos-na-nevoa-rosa-de-po-em-fundo-escuro.jpg);
 
     width: 98%;
     height: 500px;
