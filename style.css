@@ -193,7 +193,7 @@ div.unhas{
 
     margin-bottom: 25px;
 
-    background-image: url(imagens/unha\ postiça.jpeg);
+    background-image: url(imagens/unha.jpeg);
 
     width: 98%;
     height: 320px;
@@ -207,7 +207,7 @@ div.oculos{
 
     margin-bottom: 25px;
 
-    background-image: url(imagens/oculos.jpg);
+    background-image: url(imagens/oculosdesol.jpg);
 
     width: 98%;
     height: 320px;
@@ -226,6 +226,44 @@ div.sobre{
     width: 98%;
     height: 320px;
 }
+
+div.produto img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 94%;
+}
+
+
+.produto{
+    box-shadow: 5px  10px 10px 5px rgb(250, 180, 250);
+    transition: 0.5s;
+
+    width: 98%;
+    height: 70%;
+}
+
+
+
+
+.compra{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 94%;
+
+    
+
+    background-color:  rgb(250, 180, 250);
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
 
 h3{
     color: black;
