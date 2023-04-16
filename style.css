@@ -135,6 +135,8 @@ div.joias{
     background-size: cover;
     background-attachment: local;
 
+    margin-bottom: 25px;
+
     background-image: url(imagens/corrente-dourada-luxuosa-e-brilhante.jpg);
 
     width: 98%;
@@ -146,6 +148,8 @@ div.maquiagens{
     box-shadow: inset 6px 6px 13px 0px black;
     background-size: cover;
     background-attachment: local;
+
+    margin-bottom: 25px;
 
     background-image: url(imagens/colecao-close-up-de-produtos-de-maquiagem-e-beleza.jpg);
 
@@ -159,7 +163,51 @@ div.eletronicos{
     background-size: cover;
     background-attachment: local;
 
+    margin-bottom: 25px;
+
     background-image: url(imagens/arranjo-de-colecao-estacionario-moderno.jpg);
+
+    width: 98%;
+    height: 320px;
+}
+
+div.eletrico{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: local;
+
+    margin-bottom: 25px;
+
+    background-image: url(imagens/o-aspirador-de-robo-fazendo-seu-trabalho-na-casa.jpg);
+
+    width: 98%;
+    height: 320px;
+}
+
+div.unhas{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: local;
+
+    margin-bottom: 25px;
+
+    background-image: url(imagens/unha\ postiça.jpeg);
+
+    width: 98%;
+    height: 320px;
+}
+
+div.oculos{
+    color: black;
+    box-shadow: inset 6px 6px 13px 0px black;
+    background-size: cover;
+    background-attachment: local;
+
+    margin-bottom: 25px;
+
+    background-image: url(imagens/oculos.jpg);
 
     width: 98%;
     height: 320px;
@@ -170,6 +218,8 @@ div.sobre{
     box-shadow: inset 6px 6px 13px 0px black;
     background-size: cover;
     background-attachment: local;
+
+    margin-bottom: 25px;
 
     background-image: url(imagens/sobre.jpg);
 
