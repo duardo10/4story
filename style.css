@@ -207,7 +207,7 @@ div.oculos{
 
     margin-bottom: 25px;
 
-    background-image: url(imagens/oculosdesol.jpg);
+    background-image: url(imagens/oculosdesol.jpeg);
 
     width: 98%;
     height: 320px;
@@ -233,13 +233,14 @@ div.produto img{
     align-items: center;
     height: 300px;
     width: 94%;
+    padding-right: 3px;
+    padding-left: 3px;
 }
 
 
 .produto{
     box-shadow: 5px  10px 10px 5px rgb(250, 180, 250);
     transition: 0.5s;
-    background-color: indigo;
 
     width: 98%;
     height: 70%;
