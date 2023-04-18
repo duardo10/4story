@@ -17,9 +17,13 @@ header{
 }
 
 header > img{
-    width: 100%;
+    width: 98%;
     height: 200px;
     margin: 0;
+}
+
+img.imagem{
+    width: 100%;
 }
 
 /*--Menu--*/
