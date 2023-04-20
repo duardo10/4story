@@ -108,6 +108,11 @@ div.pesquisar{
     background-color: white;
 }
 
+main{
+    width: 90vw;
+    margin: auto;
+}
+
 div.home{
     color: black;
     box-shadow: inset 6px 6px 13px 0px black;
